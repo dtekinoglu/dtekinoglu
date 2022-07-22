@@ -1,4 +1,3 @@
-## My Profile in Numbers: 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtekinoglu&count_private=true&show_icons=true" />
 </a>
